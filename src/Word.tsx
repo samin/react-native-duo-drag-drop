@@ -1,3 +1,4 @@
+import React from "react";
 import { useContext } from "react";
 import { View, Text, StyleSheet, StyleProp, ViewStyle, TextStyle } from "react-native";
 import WordContext from "./WordContext";
